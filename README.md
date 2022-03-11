@@ -49,6 +49,7 @@ $ npm install
 $ yarn dev
 ou 
 $ npm run dev
+```
 
 
 
